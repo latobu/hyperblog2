@@ -1,2 +1,2 @@
-##### Hola este es mi primer READ ME 
-:tw-1f31e: :tw-1f31e:
+# hyperblog
+Un blog increíble para el curso de Git y Github de Platzi
